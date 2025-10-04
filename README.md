@@ -1,11 +1,11 @@
 <h1 align="center">Hey there <img src="images/wave.gif" height="35" width="35">, I'm Moon</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/itsmhmoon/" target="blank"><img src="https://img.shields.io/badge/-CONNECT-blue?style=flat-square&logo=Linkedin" alt="itsmhmoon" />
-  <a href="https://twitter.com/itsmhmoon" target="blank"><img src="https://img.shields.io/twitter/follow/itsmhmoon?label=FOLLOW&logo=twitter&style=flat-square&color=007fc6" alt="itsmhmoon" />
-  <a href="https://www.reddit.com/user/itsmhmoon" target="blank"><img src="https://img.shields.io/reddit/user-karma/combined/itsmhmoon?color=brightgreen&label=KARMA&logo=reddit&style=flat-square" alt="itsmhmoon" />
-  <a href="https://www.behance.net/itsmhmoon" target="blank"><img src="https://img.shields.io/badge/SHOWCASE-0054F7?style=flat-square&logo=behance&logoColor=white" alt="itsmhmoon" />
-  <a href="https://api.whatsapp.com/send/?phone=8801521107138" target="blank"><img src="https://img.shields.io/badge/CONTACT-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="itsmhmoon" />
+  <a href="https://www.linkedin.com/in/onmoaw/" target="blank"><img src="https://img.shields.io/badge/-CONNECT-blue?style=flat-square&logo=Linkedin" alt="onmoaw" />
+  <a href="https://twitter.com/onmoaw" target="blank"><img src="https://img.shields.io/twitter/follow/onmoaw?label=FOLLOW&logo=twitter&style=flat-square&color=007fc6" alt="onmoaw" />
+  <a href="https://www.reddit.com/user/onmoaw" target="blank"><img src="https://img.shields.io/reddit/user-karma/combined/onmoaw?color=brightgreen&label=KARMA&logo=reddit&style=flat-square" alt="onmoaw" />
+  <a href="https://www.behance.net/onmoaw" target="blank"><img src="https://img.shields.io/badge/SHOWCASE-0054F7?style=flat-square&logo=behance&logoColor=white" alt="onmoaw" />
+  <a href="https://api.whatsapp.com/send/?phone=8801521107138" target="blank"><img src="https://img.shields.io/badge/CONTACT-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="onmoaw" />
   </a>
 </p>
 
@@ -21,7 +21,7 @@
 - 🔭 Looking to collaborate on opensource projects.
 - 🎓 CSE undergrad at [Daffodil International University](https://daffodilvarsity.edu.bd/).
 - 🕹 Favorite activities are Video Games, Anime, Travelling and Web search.
-- 📸 Photography is my another hobby, check some here: <a href="https://www.flickr.com/photos/itsmhmoon/" target="blank"><img src="https://img.shields.io/badge/FLICKR-0062d8?style=flat&logo=flickr&logoColor=ff0084" alt="itsmhmoon" /> </a>
+- 📸 Photography is my another hobby, check some here: <a href="https://www.flickr.com/photos/onmoaw/" target="blank"><img src="https://img.shields.io/badge/FLICKR-0062d8?style=flat&logo=flickr&logoColor=ff0084" alt="onmoaw" /> </a>
 
 <hr />
 
@@ -42,10 +42,10 @@
 
 <hr/>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=itsmhmoon&theme=monokai&date_format=M%20j%5B%2C%20Y%5D&background=22272D&stroke=000000&ring=F43D62&currStreakNum=DFFF00&fire=DD2727&sideNums=40E0D0&currStreakLabel=DD2727&sideLabels=40E0D0D9&dates=FF7F50&border=FFFFFF" alt="itsmhmoon" width="420"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=onmoaw&theme=monokai&date_format=M%20j%5B%2C%20Y%5D&background=22272D&stroke=000000&ring=F43D62&currStreakNum=DFFF00&fire=DD2727&sideNums=40E0D0&currStreakLabel=DD2727&sideLabels=40E0D0D9&dates=FF7F50&border=FFFFFF" alt="onmoaw" width="420"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsmhmoon&include_all_commits=true&show_icons=true&hide_title=true&title_color=F0FFFF&icon_color=FF8C00&text_color=40E0D0&layout=compact&bg_color=22272d" alt="itsmhmoon" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=onmoaw&include_all_commits=true&show_icons=true&hide_title=true&title_color=F0FFFF&icon_color=FF8C00&text_color=40E0D0&layout=compact&bg_color=22272d" alt="onmoaw" width="420"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onmoaw&hide_title=true&langs_count=10&text_color=40E0D0&show_icons=true&layout=compact&bg_color=22272d" alt="onmoaw" width="420" align="center"/>
