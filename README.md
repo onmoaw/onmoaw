@@ -9,19 +9,19 @@
   </a>
 </p>
 
-<h3 align="center">Cross-Platform Application Developer and Gamer.</h3>
+<h3 align="center">Cross-Platform App Developer and Gamer.</h3>
 
 <br>
 
 <img align="right" src="images/Coding.gif" width="312" height="220" alt="GIF"/>
 
-- 🎯 I love to learn new things.
-- 🌱 Currently learning Flutter.
-- ✅ Successfully worked on several cross-platform mobile app projects.
-- 🔭 Looking to collaborate on opensource projects.
-- 🎓 CSE undergrad at [Daffodil International University](https://daffodilvarsity.edu.bd/).
-- 🕹 Favorite activities are Video Games, Anime, Travelling and Web search.
-- 📸 Photography is my another hobby, check some here: <a href="https://www.flickr.com/photos/onmoaw/" target="blank"><img src="https://img.shields.io/badge/FLICKR-0062d8?style=flat&logo=flickr&logoColor=ff0084" alt="onmoaw" /> </a>
+- 🎯 Growth-oriented and curious — always eager to learn new things..
+- 🌱 Currently focusing on Flutter for cross-platform app development.
+- ✅ Developed multiple cross-platform mobile applications.
+- 🔭 Open to collaborating on open-source projects and innovative ideas.
+- 🎓 Bachelor’s in Computer Science & Engineering at [Daffodil International University](https://daffodilvarsity.edu.bd/).
+- 🕹 Outside of tech: I enjoy video games, anime and traveling.
+- 📸 Explore my photography work here: <a href="https://www.flickr.com/photos/onmoaw/" target="blank"><img src="https://img.shields.io/badge/FLICKR-0062d8?style=flat&logo=flickr&logoColor=ff0084" alt="onmoaw" /> </a>
 
 <hr />
 
