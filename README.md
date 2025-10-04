@@ -48,10 +48,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=itsmhmoon&include_all_commits=true&show_icons=true&hide_title=true&title_color=F0FFFF&icon_color=FF8C00&text_color=40E0D0&layout=compact&bg_color=22272d" alt="itsmhmoon" width="420"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmhmoon&hide_title=true&langs_count=10&text_color=40E0D0&show_icons=true&layout=compact&bg_color=22272d" alt="itsmhmoon" width="420" align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onmoaw&hide_title=true&langs_count=10&text_color=40E0D0&show_icons=true&layout=compact&bg_color=22272d" alt="onmoaw" width="420" align="center"/>
 </p>
 <p align = "center">
-  <img src="https://komarev.com/ghpvc/?username=itsmhmoon">
+  <img src="https://komarev.com/ghpvc/?username=onmoaw">
 </p>
 
 <img align="center" src="images/loading.gif" alt="GIF"/>
